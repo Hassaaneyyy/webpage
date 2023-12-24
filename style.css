@@ -1,5 +1,7 @@
 .background-image {
   width: 100%;
+  background-image: url("head images/pngtree-black-and-white-photo-of-an-old-man-staring-picture-image_3175000.jpg");
+  height: 100vh;
 }
 .donate-now {
   background-color: #f15b43;
@@ -73,9 +75,6 @@ body {
 
 .firstlink {
   margin-left: 22px;
-}
-.link {
-  margin-left: 20px;
 }
 
 .nav-main {
